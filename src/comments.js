@@ -8,7 +8,7 @@
 // `;
 // var newCode = `
 // {
-//   "name": {"s":"Fake Name", "address": [{"sub":1},2]},
+//   "name": {"s":"Original Name", "address": [{"sub":1},2]},
 //   "description": "Brand new description",
 //   "status": "running"
 // }
